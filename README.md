@@ -1,5 +1,5 @@
 # gtfo
-Grep The Flag Out CTF utility
+Grep The Flag Out, a CTF utility
 
 ## Features
 
